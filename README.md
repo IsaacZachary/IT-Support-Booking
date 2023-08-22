@@ -10,6 +10,7 @@
 
 
 Welcome:
+![System Screenshot 1](public/img/screenshots/1.Welcome.PNG) 
 
 Login:
 
@@ -22,7 +23,7 @@ Managing Device Tickets:
 Roles and Priorities:
 
 Ticket Status, Comments, and Logout:
-![System Screenshot 1](public/img/screenshots/1. Welcome.PNG)
+
 
 ![System Screenshot 2](path/to/your/screenshot2.png)
 
