@@ -8,7 +8,21 @@
 
 ## Screenshots
 
-![System Screenshot 1](path/to/your/screenshot1.png)
+
+Welcome:
+
+Login:
+
+Dashboard:
+
+Create a Device Ticket:
+
+Managing Device Tickets:
+
+Roles and Priorities:
+
+Ticket Status, Comments, and Logout:
+![System Screenshot 1](public/img/screenshots/1. Welcome.PNG)
 
 ![System Screenshot 2](path/to/your/screenshot2.png)
 
